@@ -1,0 +1,5 @@
+pip install openai huggingface_hub pillow
+pip install python-dotenv
+pip install streamlit
+streamlit run app.py
+pip install faiss-cpu sentence-transformers
